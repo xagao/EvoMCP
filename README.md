@@ -5,7 +5,7 @@
 
 **A closed loop of task evolution, trajectory evolution, and supervised fine-tuning for MCP agents.**
 
-Xuanang Gao\*, Peng Ke\*, Xinyan Shi\*, Yong Deng, Shuheng Shen, Changhua Meng, Xiaofeng Wu, Jie Yang, Wei Liu
+Xuanang Gao\*, Kepeng Lin\*, Xinyan Shi\*, Yong Deng, Shuheng Shen, Changhua Meng, Xiaofeng Wu, Jie Yang, Wei Liu
 
 Shanghai Jiao Tong University · Ant Group  
 \* Equal contribution
